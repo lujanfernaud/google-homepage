@@ -379,7 +379,7 @@ p.recordatorio {
 
 input.mas-tarde {
 	width: 200px;
-	height: 38;
+	height: 38px;
 	top: 29px;
 	right: 141px;
 	padding: 10px 8px;
@@ -394,6 +394,7 @@ input.mas-tarde {
 @media screen and (min--moz-device-pixel-ratio:0) and (min-resolution:.1dppx) {
 	input.mas-tarde {
 		width: 197px;
+		height: 38px;
 	}
 }
 /* --- end --- */
